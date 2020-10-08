@@ -1,2 +1,2 @@
-# Deep Learning
-Deep Learning Models
+# Machine Learning
+Machine Learning Models
